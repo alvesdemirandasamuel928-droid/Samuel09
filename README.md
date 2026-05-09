@@ -1,5 +1,5 @@
 <p align="center">
-  <img batman-the-animated-series-.gif" width="300" alt="Batman">
+  <img batman-the-animated-series-gif.gif" width="300" alt="Batman">
 </p>
 
 <p align="center">
