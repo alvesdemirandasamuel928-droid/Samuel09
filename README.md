@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./batman-the-animated-series-dark-knight.jpg" width="300" alt="Batman">
+  <img batman-the-animated-series-jpg" width="300" alt="Batman">
 </p>
 
 <p align="center">
